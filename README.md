@@ -1,4 +1,4 @@
-# Whisky_Recommender 
+# Scotch Whisky Recommender 
 
 Using NLP to predict and recommend whisky
 
